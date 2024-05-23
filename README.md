@@ -6,10 +6,16 @@ Additionally, I have chosen to include the beginner stage and later on intermedi
 -----
 ## Build the Snake Game - Part 1
 ✅ Create a snake body
+
 ✅ Move the snake
+
 ✅ Control the snake
+
 ❌ Detect Collision with food
+
 ❌ Create a scoreboard
+
 ❌ Detect collision with wall
+
 ❌ Detect collision with tail
 
